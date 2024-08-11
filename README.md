@@ -45,11 +45,6 @@ O CS50 conta com um certificado de conclusão com o selo da universidade para al
 
 # English
 
-### [<img align="right" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" />](#english)
-</br>
-
----
-
 # <img width="50" src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default"/> CS50: Introduction to Computer Science
 
 ###### &#128279; [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
